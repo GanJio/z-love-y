@@ -2,7 +2,7 @@
 
 const UpdateSouvenirInterval = 1000;
 
-const TogetherSouvenirStartTime = "2022-08-14 22:48:00";
+const TogetherSouvenirStartTime = "2019-09-16 20:30:00";
 const TogetherSouvenirMomentElementId = "together_souvenir_moment";
 
 function updateTogetherSouvenir() {

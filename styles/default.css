@@ -6,7 +6,7 @@ html, body {
 body {
   position: relative;
   font-family: MiSans, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Segoe UI, Arial, Roboto, "PingFang SC", "miui", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
-  background-color: #ff5555;
+  background-color: #ffffff;
   overflow: hidden;
 }
 
@@ -21,7 +21,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 0;
-  background-color: #ff5555;
+  background-color: #eea2a4;
   z-index: 100;
   overflow: hidden;
   cursor: pointer;
