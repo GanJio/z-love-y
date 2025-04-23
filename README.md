@@ -1,5 +1,2 @@
-### ❤️ 小何和小周的小破站
+### ❤️ 小周&小余
 
-- [在线地址](https://love.xiaohe.ink)
-
-- [备用地址](https://xiaohe-love.netlify.app)
